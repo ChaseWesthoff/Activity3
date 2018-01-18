@@ -1,11 +1,11 @@
 body {
     background-color: lightpink;
-    border-top-color: red;
 }
 
 h1 {
     color: black;
     text-align: center;
+    border-color: black;
 }
 
 p {
