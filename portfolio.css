@@ -46,10 +46,10 @@ section {
 }
 
 aside {
- flex: 1
+ flex: 4
 }
 
 article {
- flex: 4
+ flex: 1
 }
 
