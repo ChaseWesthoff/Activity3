@@ -49,3 +49,7 @@ aside {
  flex: 1
 }
 
+article {
+	text-align: center;
+}
+
