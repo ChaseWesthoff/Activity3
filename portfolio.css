@@ -25,7 +25,10 @@ nav ul {
 nav li {
     float: left;
 }
+img {
 
+	text-align: center;
+}
 nav li a {
     display: block;
     color: white;
