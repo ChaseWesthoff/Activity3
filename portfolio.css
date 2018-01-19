@@ -40,3 +40,16 @@ li a:hover {
     background-color: red;
     color: white;
 }
+
+section {
+ display: flex;
+}
+
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
+
