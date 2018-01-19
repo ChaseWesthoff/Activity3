@@ -36,7 +36,9 @@ img {
     margin-right: auto;
     width: 40%;
 }
-
+button {
+    align-content: center;
+}
 nav li a {
     display: block;
     color: white;
