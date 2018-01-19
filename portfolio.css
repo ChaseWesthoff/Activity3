@@ -7,6 +7,13 @@ h1 {
     text-align: center;
 }
 
+nav p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+
+}
+
 p {
     font-family: verdana;
     font-size: 20px;
@@ -35,9 +42,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-}
-button {
-    align-content: center;
 }
 nav li a {
     display: block;
