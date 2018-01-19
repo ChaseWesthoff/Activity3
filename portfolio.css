@@ -37,16 +37,3 @@ nav li a {
 li a:hover {
     background-color: lightpink;
 }
-
-section {
- display: flex;
-}
-
-aside {
- flex: 1
-}
-
-article {
-	text-align: center;
-}
-
