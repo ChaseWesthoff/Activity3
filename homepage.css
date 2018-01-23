@@ -30,7 +30,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: red;
+    background-color: pink;
 }
 
 nav li {
@@ -51,6 +51,18 @@ nav li a {
     text-decoration: none;
 }
 
+li a.active {
+    background-color: #ff4c4c;
+    color: white;
+}
+
+
+li a:hover:not(.active) {
+    background-color: #ff6666;
+    color: white;
+}
+
 li a:hover {
-    background-color: lightpink;
+    background-color: #ff9999
+;
 }
