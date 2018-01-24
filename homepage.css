@@ -41,7 +41,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 90%;
 }
 nav li a {
     display: block;
@@ -63,6 +63,36 @@ li a:hover:not(.active) {
 }
 
 li a:hover {
-    background-color: #ff9999
-;
+    background-color: #ff9999;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-column-gap: 10px;
+    grid-row-gap: 50px;
+
+    background-color: white;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;    
+    font-family: helvetica;
+    font-size: 10px;
+    text-align: center;
+}
+
+.container {
+    padding: auto;
+    margin: auto;
+  display: table;
+  text-align: center;
+  width: 70%;
+
+}
+.row {
+    text-align: center;
 }
