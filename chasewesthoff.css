@@ -2,16 +2,10 @@ body {
     background-color: white;
 }
 
-h1 {
-    color: black;
-    text-align: center;
-}
-
 nav p {
     font-family: helvetica;
     font-size: 20px;
     text-align: left;
-
 }
 
 p {
