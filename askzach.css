@@ -10,15 +10,28 @@ h1 {
 nav p {
     font-family: helvetica;
     font-size: 20px;
-    text-align: left;
+    text-align: center;
 
 }
 
-p {
+footer p {
     font-family: helvetica;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
 }
+ p.question{
+    font-family: helvetica;
+    font-size: 18px;
+    font-style: italic;
+    text-align: left;
+}
+
+p.answer{
+    font-family: helvetica;
+    font-size: 20px;
+    text-align: left;
+}
+
 ul {
     font-family: helvetica;
     font-size: 20px;
@@ -41,7 +54,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 50%;
 }
 nav li a {
     display: block;
@@ -66,14 +79,6 @@ li a:hover {
     background-color: #ff9999;
 }
 
-.wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr ;
-    grid-column-gap: 10px;
-    grid-row-gap: 50px;
-
-    background-color: white;
-}
 
 .footer {
     left: 0;
@@ -85,14 +90,3 @@ li a:hover {
     text-align: center;
 }
 
-.container {
-    padding: auto;
-    margin: auto;
-  display: table;
-  text-align: center;
-  width: 70%;
-
-}
-.row {
-    text-align: center;
-}
