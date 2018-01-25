@@ -15,11 +15,10 @@ nav h1 {
     text-align: center;
 }
 
-nav p {
+ nav p {
     font-family: helvetica;
     font-size: 20px;
     text-align: center;
-
 }
 
 footer p {
@@ -28,18 +27,18 @@ footer p {
     text-align: center;
 }
 
-p.description {
+p.description{
     font-family: helvetica;
     font-size: 25px;
     text-align: center;
 }
 
-}
- p.question{
+
+p.question{
     font-family: helvetica;
     font-size: 18px;
-    font-style: italic;
     text-align: left;
+    font-style: italic;
 }
 
 p.answer{
@@ -94,7 +93,6 @@ li a:hover:not(.active) {
 li a:hover {
     background-color: #ff9999;
 }
-
 
 .footer {
     left: 0;
