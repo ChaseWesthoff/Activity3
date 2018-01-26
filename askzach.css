@@ -90,6 +90,18 @@ li a:hover {
     background-color: #ff9999;
 }
 
+.container {
+    padding: auto;
+    margin: auto;
+  display: table;
+  text-align: center;
+  width: 80%;
+}
+
+.row {
+    text-align: center;
+}
+
 .footer {
     left: 0;
     bottom: 0;
