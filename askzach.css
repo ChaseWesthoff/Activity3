@@ -1,17 +1,13 @@
 body {
     background-color: white;
     align-content: center;
+    margin: 0px;
+
 }
 
 h1 {
     color: black;
     font-family: helvetica;
-    text-align: center;
-}
-
-nav h1 {
-    color: black;
-    font-family: Comic Sans MS;
     text-align: center;
 }
 
